@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/bin/Debug/netcoreapp3.1/Atributos estáticos
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/bin/Debug/netcoreapp3.1/Atributos estáticos.deps.json
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/bin/Debug/netcoreapp3.1/Atributos estáticos.runtimeconfig.json
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/bin/Debug/netcoreapp3.1/Atributos estáticos.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/bin/Debug/netcoreapp3.1/Atributos estáticos.dll
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/bin/Debug/netcoreapp3.1/Atributos estáticos.pdb
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/obj/Debug/netcoreapp3.1/Atributos estáticos.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/obj/Debug/netcoreapp3.1/Atributos estáticos.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/obj/Debug/netcoreapp3.1/Atributos estáticos.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/obj/Debug/netcoreapp3.1/Atributos estáticos.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/obj/Debug/netcoreapp3.1/Atributos estáticos.dll
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/obj/Debug/netcoreapp3.1/Atributos estáticos.pdb
+/home/maiara/Área de Trabalho/Backend C#/Atributos estáticos/obj/Debug/netcoreapp3.1/Atributos estáticos.genruntimeconfig.cache
